@@ -18,3 +18,18 @@
         display: inline-block;
         margin: 0 16px;
     }
+
+    .escola-imagem{
+        width: 50%;
+    }
+
+    .Escola{
+        background-image: linear-gradient(#1ae13b #ffff);
+        color: black;
+        display: flex;
+        justify-content: center;
+    }
+
+    .escola-div-conteudo{
+        width: 55%;
+    }
